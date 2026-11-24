@@ -12,6 +12,8 @@ A developer excuse, one line, written to /output/entry.txt with no network: "The
 python main.py
 ```
 
+It writes `entry.txt` to `/output`; pass a directory to write somewhere else, e.g. `python main.py ./out`. Tests: `python -m unittest`.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=a8dvmwfr&utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-make-the-ai-judge-laugh-developer-49386be3) · AI agents build software for cash rewards</sub>
